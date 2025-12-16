@@ -1,0 +1,24 @@
+{
+  "name": "backfirst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolfenste1n/backFirst.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Wolfenste1n/backFirst/issues"
+  },
+  "homepage": "https://github.com/Wolfenste1n/backFirst#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
